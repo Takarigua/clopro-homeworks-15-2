@@ -34,30 +34,30 @@
 ## Ответ:
 
 1. Создал ВМ LAMP
-![ВМ]()
+![ВМ](https://github.com/Takarigua/clopro-homeworks-15-2/blob/e6a7b97f1fc33941dad288816e45f586046b4ee2/screen/%D0%92%D0%9C.png)
 
 ---
 
 2. Группа ВМ
-![Группа]()
+![Группа](https://github.com/Takarigua/clopro-homeworks-15-2/blob/e6a7b97f1fc33941dad288816e45f586046b4ee2/screen/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0.png)
 
 ---
 
 3. Проверка состояния
-![Состояние]()
+![Состояние](https://github.com/Takarigua/clopro-homeworks-15-2/blob/e6a7b97f1fc33941dad288816e45f586046b4ee2/screen/%D0%A1%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5.png)
 
 ---
 
 4. Балансировщик
-![Балансировщик]()
+![Балансировщик](https://github.com/Takarigua/clopro-homeworks-15-2/blob/e6a7b97f1fc33941dad288816e45f586046b4ee2/screen/%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA.png)
 
 ---
 
 5. Страница
-![Сайт]()
+![Сайт](https://github.com/Takarigua/clopro-homeworks-15-2/blob/e6a7b97f1fc33941dad288816e45f586046b4ee2/screen/%D0%A1%D0%B0%D0%B9%D1%82.png)
 
 ---
 
-6.Отказоусточивость. Выключил ВМ, страница доступна, пока делал скриншот она начала запускаться сама
-![Отказоустойчивость]()
+6.Отказоусточивость. Выключил ВМ, страница доступна, пока делал скриншот ВМ начала запускаться сама
+![Отказоустойчивость](https://github.com/Takarigua/clopro-homeworks-15-2/blob/e6a7b97f1fc33941dad288816e45f586046b4ee2/screen/%D0%9E%D1%82%D0%BA%D0%B0%D0%B7.png)
 
