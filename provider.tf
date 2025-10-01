@@ -9,7 +9,6 @@ terraform {
 }
 
 provider "yandex" {
-  # Используем уже созданный файл key.json в каталоге модуля
   service_account_key_file = "${path.module}/key.json"
   cloud_id  = var.yandex_cloud_id
   folder_id = var.yandex_folder_id
