@@ -1,6 +1,6 @@
 resource "yandex_storage_bucket" "bucket" {
   bucket     = var.bucket_name
-  acl        = "public-read"    # deprecated warning: ok, не критично
+  acl        = "public-read"
   force_destroy = true
 }
 
